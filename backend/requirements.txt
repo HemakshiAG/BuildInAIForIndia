@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+pydantic-settings
+python-dotenv
+requests
+passlib
+bcrypt
+PyJWT
+sentence-transformers
+faiss-cpu
+transformers
+scikit-learn
+networkx
+celery[redis]
+psycopg2-binary
