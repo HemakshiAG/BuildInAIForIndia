@@ -4,6 +4,15 @@ BridgeCare AI is a full-stack healthcare research translation platform that conn
 
 ---
 
+## 🌐 Live Demo
+
+| Resource | Link |
+|----------|------|
+| 🚀 Frontend | **https://build-in-ai-for-india.vercel.app/** |
+| ⚙️ Backend API | **https://buildinaiforindia.onrender.com/** |
+| 🎥 Demo Video | **https://youtu.be/your-video-link** |
+
+
 ## Problem Statement
 
 Healthcare research often fails to reach clinical practice quickly enough. BridgeCare AI addresses this gap by:
