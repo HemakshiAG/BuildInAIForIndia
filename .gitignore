@@ -1,6 +1,21 @@
+# Node
 node_modules/
-.venv/
 .next/
 dist/
 build/
-*.log 
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Database
+*.db
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.*
